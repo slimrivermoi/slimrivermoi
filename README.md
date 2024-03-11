@@ -1,4 +1,4 @@
-### Hi there 👋
+# About Me 👋
 I have been a HR professional for the past 20 yrs and am lucky to be able to learn many disciplines such as Compensation, Analytics, Talent Management, Succession Planning, Assessment and Change Management.  Throughout my career, I found myself always drawn to diagnosing/solving complex system or data related issues, translating complex, static data into useful metrics and insights for the business, creating solutions to automate/simplify ways of working. 
 
 I learned C++, Java, HTML and VB back in the late 90s (I forgot them all now). And started a Python course in Udemy 2 months ago, boy how much had things changed for the better (as faster!)🤯!
