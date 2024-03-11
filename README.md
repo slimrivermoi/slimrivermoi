@@ -1,11 +1,11 @@
 # About Me 👋
 I have been a HR professional for the past 20 yrs and am lucky to be able to learn many disciplines such as Compensation, Analytics, Talent Management, Succession Planning, Assessment and Change Management.  Throughout my career, I found myself always drawn to diagnosing/solving complex system or data related issues, translating complex, static data into useful metrics and insights for the business, creating solutions to automate/simplify ways of working. 
 
-I learned C++, Java, HTML and VB back in the late 90s (I forgot them all now). And started a Python course in Udemy 2 months ago, boy how much had things changed for the better (as faster!)🤯!
+I learned C++, Java, HTML and VB back in the late 90s (I forgot them all) and started a Python course in Udemy 2 months ago, boy how things have changed for the better now (as faster!)🤯! 
 
-- 🌱 I am learning **Python** as a starter now 
-- 💪 My strengths: I want to use my experience in HR and change management in the **Machine Learning or Data Science world**. 
-- 🤔 I’m looking for help with others who have been successfully changed their career from other feilds to tech.
+- 🌱 I am learning **Python**. I would like to learn Javascript, web development and Machine Learning. 
+- 💪 My strengths: I want to use my rich experience in HR and change management. 
+- 🤔 Need help: I’m looking for help from others who have been successfully changed their career from other feilds to tech.
 
 
 
