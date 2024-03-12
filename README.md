@@ -5,7 +5,7 @@ I learned C++, Java, HTML and VB back in the late 90s (I forgot them all) and st
 
 - 🌱 I am learning **Python**. I would like to learn Javascript, web development and Machine Learning. 
 - 💪 My strengths: I want to use my rich experience in HR and change management. 
-- 🤔 Need help: I’m looking for help from others who have been successfully changed their career from other feilds to tech.
+- 🤔 Need help: I’m looking for help from others who have been successfully changed their career from other fields to tech.
 
 
 
