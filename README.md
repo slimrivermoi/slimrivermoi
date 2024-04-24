@@ -1,5 +1,5 @@
 # About Me 👋
-I learned C++, Java, HTML and VB back in the late 90s (I forgot them all) and started a Python course in Udemy 2 months ago, boy how things have changed for the better now (as faster!)🤯! 
+I learned C++, Java, HTML and VB back in the late 90s (I forgot them all) and started a Python course in Udemy not long ago, boy how things have changed for the better now (as faster!)🤯! 
 
 - 🌱 I am learning **Python**. I would like to learn Javascript, web development and Machine Learning. 
 - 💪 My strengths: I want to use my rich experience in HR and change management. 
