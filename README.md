@@ -3,8 +3,8 @@ I learned C++, Java, HTML and VB back in the late 90s (I forgot them all) and st
 
 - 🌱 I am learning **Python**. I am a candidate in the [Techlabs's Digital Shaper Program](https://www.techlabs.org/) for Data Science track.  I want to like to learn Javascript, web/app development and Machine Learning. 
 - 💪 My strengths: effective communicator, HR data analytics, change management. 
-- 🤔 Need help: I’m looking for help from others who have been successfully changed their career from other fields to tech.
-- ⚡ Fun fact: I can speak 7 languages (English, Mandarin, Cantonese, Hakka, Bahasa Malay, French and German)
+- 🤔 Tell me more: I’m looking for insights from others who can shared their brave journey to transition over to tech fields. 
+- ⚡ Fun fact: I crochet and likes to do art and craft. I can speak 7 languages (English, Mandarin, Cantonese, Hakka, Bahasa Malay, French and German).
 - 📫 How to reach me: lee.yong512@gmail.com
 
 <!--
