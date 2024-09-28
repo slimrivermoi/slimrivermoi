@@ -1,7 +1,7 @@
 # About Me 👋
 I learned C++, Java, HTML and VB back in the late 90s (I forgot them all) and started a Python course in Udemy not long ago, boy how things have changed for the better now (as faster!)🤯! 
 
-- 🌱 I am learning **Python**. I am a candidate in the [Techlabs's Digital Shaper Program](https://www.techlabs.org/) for Data Science track.  I want to like to learn Javascript, web/app development and Machine Learning. 
+- 🌱 I am learning **Python** . I completed a project at [Techlabs's Digital Shaper Program](https://www.techlabs.org/).  
 - 💪 My strengths: effective communicator and love orders in chaos. 
 - ⚡ Fun fact: crochet, art and craft. I speak 7 languages (English, Mandarin, Cantonese, Hakka, Bahasa Malay, French and German).
 
